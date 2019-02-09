@@ -7,7 +7,7 @@
 
 // console.log(getSevenCol([1, 7, 4, 77, 73])); // 4
 
-#1
+// #1
 function getSevenCol(arr) { // arr = [1,2,3,4,7,7 7,1 7,9 2]
 
 	let str = arr.join('');
